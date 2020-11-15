@@ -1,0 +1,6 @@
+#!C:\Users\Administrator\Desktop\plane\venv\Scripts\python.exe
+from __future__ import absolute_import
+import pymago.cli
+
+if __name__ == '__main__':
+	pymago.cli.run()
